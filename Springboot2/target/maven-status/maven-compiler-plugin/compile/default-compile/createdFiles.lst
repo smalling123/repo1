@@ -1,0 +1,15 @@
+com\example\Springboot2\mapper\DictionaryMapper.class
+com\example\Springboot2\model\Permission\Entity1.class
+com\example\Springboot2\config\WebConfig.class
+com\example\Springboot2\web\DictionaryServiceController.class
+com\example\Springboot2\config\JwtConfig.class
+com\example\Springboot2\utils\HttpRequest.class
+com\example\Springboot2\model\DictionaryItem.class
+com\example\Springboot2\interceptor\TokenInterceptor.class
+com\example\Springboot2\service\DictionaryServiceImpl.class
+com\example\Springboot2\web\MainController.class
+com\example\Springboot2\Application.class
+com\example\Springboot2\config\Global.class
+com\example\Springboot2\mapper\UserMapper.class
+com\example\Springboot2\service\DictionaryService.class
+com\example\Springboot2\model\Result.class
